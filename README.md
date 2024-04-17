@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a software engineering student from Asia Pacific University, currently in my final year. I am working<br>on a Final Year Project regarding Financial Management including expenditure pattern recognition using artificial intelligence.<br>I am currently learning more about artificial intelligence and neural networks using project based learning.
+I am a software engineering student at Asia Pacific University, currently in my final year. I am working on a Final Year Project regarding Financial Management including expenditure pattern recognition using artificial intelligence. I am currently learning more about artificial intelligence and neural networks using project-based learning.
 
 
 ## 🌐 Socials:
