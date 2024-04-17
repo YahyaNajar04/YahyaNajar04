@@ -15,8 +15,5 @@ I am a software engineering student from Asia Pacific University, currently in m
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=YahyaNajar04&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=YahyaNajar04&icon=2&color=6)](https://visitcount.itsvg.in)
